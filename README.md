@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MOO-SHU
+- 👋 Hi, I’m Julien / @MOO-SHU
 - 👀 I’m interested in Front-End Web Development
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me : Mooshucode@gmail.com

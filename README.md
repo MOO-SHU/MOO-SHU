@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MOO-SHU
 - 👀 I’m interested in Front-End Web Development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on React
 - 📫 How to reach me : Mooshucode@gmail.com
